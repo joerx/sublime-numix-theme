@@ -74,7 +74,7 @@
   {
     "class": "tab_control",
     "attributes": ["selected"],
-    "layer0.tint": [214, 73, 55]
+    "layer0.tint": [48, 74, 107]
   },
   {
     "class": "tab_label",
@@ -87,7 +87,7 @@
   {
     "class": "tab_control",
     "attributes": ["hover"],
-    "layer0.tint": [214, 73, 55, 230]
+    "layer0.tint": [48, 74, 107, 230]
   },
   {
     "class": "tab_label",
@@ -144,7 +144,7 @@
     "class": "tab_close_button",
     "attributes": ["hover"],
     "parents": [{"class": "tab_control", "attributes": ["hover"]}],
-    // "layer0.tint": [214, 73, 55]
+    // "layer0.tint": [48, 74, 107]
     "layer0.opacity": 1.0
   },
   // Tab dirty button
@@ -590,7 +590,7 @@
   // Sidebar row selected
   {
     "class": "tree_row",
-    "layer0.tint": [214, 73, 55],
+    "layer0.tint": [48, 74, 107],
     "layer0.opacity": 1.0,
     "attributes": ["selected"]
   },
@@ -635,7 +635,7 @@
     "class": "close_button",
     "parents": [{"class": "tree_row", "attributes": ["hover"]}],
     "attributes": ["hover"],
-    "layer0.tint": [214, 73, 55],
+    "layer0.tint": [48, 74, 107],
     "layer0.opacity": 1.0
   },
 
@@ -685,7 +685,7 @@
     "attributes": ["hover", "dirty"],
     "parents": [{"class": "tree_row", "attributes": ["hover"]}],
     "layer0.texture": "Theme - Numix/assets/close.png",
-    "layer0.tint": [214, 73, 55]
+    "layer0.tint": [48, 74, 107]
   },
   {
     "class": "close_button",
@@ -777,7 +777,7 @@
     // Pressed button state
     "class": "button_control",
     "attributes": ["pressed", "hover"],
-    "layer0.tint": [214, 73, 55]
+    "layer0.tint": [48, 74, 107]
   },
   {
     "class": "label_control",
@@ -856,7 +856,7 @@
     "class": "quick_panel_row",
     "attributes": ["selected"],
     "layer0.texture": "",
-    "layer0.tint": [214, 73, 55]
+    "layer0.tint": [48, 74, 107]
   },
   {
     "class": "quick_panel_label",
@@ -893,7 +893,7 @@
     "class": "mini_quick_panel_row",
     "attributes": ["selected"],
     "layer0.texture": "",
-    "layer0.tint": [214, 73, 55]
+    "layer0.tint": [48, 74, 107]
   },
 
 //
@@ -913,7 +913,7 @@
   {
     "class": "auto_complete_label",
     "bg": [51, 51, 51],
-    "selected_bg": [214, 73, 55],
+    "selected_bg": [48, 74, 107],
 
     // text
     "fg": [222, 222, 222],
@@ -930,7 +930,7 @@
   {
     "class": "table_row",
     "attributes": ["selected"],
-    "layer0.tint": [214, 73, 55],
+    "layer0.tint": [48, 74, 107],
     "layer0.opacity": 1.0
   },
 
@@ -960,14 +960,14 @@
   {
     "class": "icon_button_control",
     "attributes": ["selected", "hover"],
-    "layer0.tint": [214, 73, 73]
+    "layer0.tint": [45, 104, 181]
   },
   // :: SELECTED
   {
     "class": "icon_button_control",
     "attributes": ["selected"],
     "layer0.texture": "",
-    "layer0.tint": [214, 73, 73]
+    "layer0.tint": [45, 104, 181]
   },
 
 //

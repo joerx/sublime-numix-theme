@@ -1,0 +1,17 @@
+{
+    "schema_version": "2.0",
+    "packages": [{
+        "name": "Theme - NumixBlu",
+        "details": "https://github.com/joerx/sublime-numixblu-theme",
+        "homepage": "https://github.com/joerx/sublime-numixblu-theme",
+        "author": "Joerg Henning",
+        "readme": "https://raw.github.com/joerx/sublime-numixblu-theme/master/README.md",
+        "releases": [{
+            "version": "0.1.1",
+            "url": "https://codeload.github.com/joerx/sublime-numixblu-theme/zip/0.1.1",
+            "sublime_text": "*",
+            "details": "https://github.com/joerx/sublime-numixblu-theme/tags"
+        }],
+
+    }]
+}

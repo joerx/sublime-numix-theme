@@ -1,26 +1,32 @@
-# Theme - Numix
+# Theme - Numix Blu
+
+## About
+
+Simple fork of Numix Sublime Theme using blue highlights instead of the default orange ones. Sole purpose of this is to 
+match the custom GTK theme settings on my system. All credits to the original authors.
 
 ## Screenshots
 
-![](https://dl.dropboxusercontent.com/u/7263172/numix/window.png)
-
-![](https://dl.dropboxusercontent.com/u/7263172/numix/search.png)
-
-![](https://dl.dropboxusercontent.com/u/7263172/numix/panel.png)
+TODO
 
 ## Installation
 
+### Manual
+
+Only works on Linux yet, assuming default installation of Sublime. Clone this repo and run install.sh. If somebody is 
+interested in having this on Sublime Package Control, drop me a message.
+
 ### Using Sublime Package Control
 
-If you are using sublime package control, you can install directly from the `Package Control: Install Package` menu item.
+~~If you are using sublime package control, you can install directly from the `Package Control: Install Package` menu item.~~
 
-The theme is listed as `Theme - Numix` in the packages list.
+~~The theme is listed as `Theme - Numix` in the packages list.~~
 
 ##### Enabling the theme
 
 To enable the theme and adjust theme settings edit your `Preferences.sublime-settings` file:
 
-    "theme": "Numix.sublime-theme"
+    "theme": "NumixBlu.sublime-theme"
 
 ##### Additional Settings:
 
@@ -36,6 +42,7 @@ To enable the theme and adjust theme settings edit your `Preferences.sublime-set
     "numix_sidebar_tree_xlarge": true
     
 
-##### Original theme
+##### Original themes
 
+https://github.com/alperenelhan/sublime-numix-theme
 https://github.com/itsthatguy/theme-itg-flat

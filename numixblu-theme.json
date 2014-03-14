@@ -7,7 +7,7 @@
         "author": "Joerg Henning",
         "readme": "https://raw.github.com/joerx/sublime-numixblu-theme/master/README.md",
         "releases": [{
-            "version": "0.1.1",
+            "version": "0.1.2",
             "url": "https://codeload.github.com/joerx/sublime-numixblu-theme/zip/0.1.1",
             "sublime_text": "*",
             "details": "https://github.com/joerx/sublime-numixblu-theme/tags"
